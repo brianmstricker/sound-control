@@ -1,5 +1,6 @@
 import { AiFillSound } from "react-icons/ai";
 import ThemeToggle from "./components/ThemeToggle";
+import Volume from "./components/Volume";
 
 function App() {
  return (
@@ -11,6 +12,7 @@ function App() {
     </div>
     <ThemeToggle />
    </div>
+   <Volume />
   </div>
  );
 }
