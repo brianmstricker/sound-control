@@ -1,0 +1,10 @@
+{
+ "version": "1.0.0",
+ "manifest_version": 3,
+ "name": "Sound Control",
+ "description": "Sound Control is a Chrome Extension that allows you to control the sound of tabs.",
+ "action": {
+  "default_popup": "client/index.html",
+  "default_title": "Sound Control"
+ }
+}
