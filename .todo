@@ -4,5 +4,5 @@
 
 ## todo
 
--global value that is saved, per site value that is saved (overrides global), ability to see all sites playing audio, mute all sites, mute single site, etc.
+-per site value that is saved, ability to see all sites playing audio, mute all sites, mute single site, etc.
 -decide on backend (express, fastify, nestjs) and db (mongodb, supabase)
