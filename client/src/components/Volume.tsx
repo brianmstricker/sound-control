@@ -9,8 +9,8 @@ const Volume = () => {
  };
  return (
   <div className="mt-4">
-   <label htmlFor="volume" className="block text-sm font-medium text-gray-700">
-    Volume
+   <label htmlFor="volume" className="block text-sm font-medium text-center">
+    Volume: {volume}
    </label>
    <input id="volume" type="range" min="0" max="1" step="0.01" value={volume} onChange={handleVolumeChange} className="mt-1 block w-full" />
   </div>
