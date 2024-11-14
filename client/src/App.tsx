@@ -10,7 +10,7 @@ function App() {
     <div className="flex justify-between items-center">
      <div className="flex items-center gap-2">
       <AiFillSound />
-      <h1 className="font-bold text-xl">Sound Control</h1>
+      <h1 className="font-bold text-2xl">Sound Control</h1>
      </div>
      <ThemeToggle />
     </div>
